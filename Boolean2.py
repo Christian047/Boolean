@@ -29,7 +29,7 @@ def common_member():
                                      for i in List9 :
                                          for j in List10 :
                                                if (a==b==c==d==e==f==g==h==i==j) :
-                                                  print (bool(common_member)) 
+                                                  print (bool(a)) 
   
               
               
